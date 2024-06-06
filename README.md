@@ -1,5 +1,5 @@
 - Hi, I’m ```@jadierror``` 👋 
-- Follow Me on X: ```@jadierror```
+- Follow Me on X ```@jadierror```
 
 <!---
 jadierror/jadierror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
